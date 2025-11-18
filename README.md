@@ -17,5 +17,5 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
 ### 📊 Featured Projects
-- [Artium Hive](https://github.com/Amanrk7/artium-hive) - Digital art marketplace
+- [Artium Hive](https://github.com/Amanrk7/Artium-Hive-Art/) - Digital art marketplace
 - [Credit Card Fraud Detection](link) - Deep Learning ML model

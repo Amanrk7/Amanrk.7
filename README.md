@@ -18,4 +18,4 @@
 
 ### 📊 Featured Projects
 - [Artium Hive](https://github.com/Amanrk7/Artium-Hive-Art/) - Digital art marketplace
-- [Credit Card Fraud Detection](link) - Deep Learning ML model
+- [Credit Card Fraud Detection](https://github.com/Amanrk7/Credit-Card-Fraud-Detection) - Deep Learning ML model
